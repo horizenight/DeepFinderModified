@@ -7,12 +7,12 @@ import deepfinder.utils.common as cm
 import deepfinder.utils.objl as ol
 
 # Input parameters:
-path_labelmap = 'deepfinder/examples/analyze/out/tomo9_bin1_labelmap.mrc'
+path_labelmap = 'deepfinder/examples/analyze/out/labelmap_binned.mrc'
 cluster_radius = 5  # should correspond to average radius of target objects (in voxels)
 cluster_size_threshold = 1  # found objects smaller than this threshold are immediately discarded
 
 # Output parameter:
-path_output = 'deepfinder/examples/analyze/out/'
+path_output = 'deepfinder/examples/analyze/result/'
 
 # Load data:
 labelmapB = cm.read_array(path_labelmap)
