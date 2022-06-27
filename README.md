@@ -27,9 +27,9 @@ __News__: (01/06/22) A first version of the [Napari](https://napari.org) GUI (Na
 
 - [System_Requirements](#system_requirements)
 
-- [Installation_Guide](#installation_guide)
+- [Installation guide](#installation_guide)
 
-- [Instructions_for_use](#instructions_for_use)
+- [Instructions for use](##instructions_for_use)
 
 - [Documentation](https://deepfinder.readthedocs.io/en/latest/)
 
@@ -100,7 +100,7 @@ pycm
   
   
 
-## Installation_Guide
+## Installation_guide
 
 Before installation, you need a python environment on your machine( So that custom python and module version doesnt interfere with global versions) . If this is not the case, we advise installing [Anaconda](https://docs.anaconda.com/anaconda/install/linux/).
 
