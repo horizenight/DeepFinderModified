@@ -191,3 +191,10 @@ __Notes:__
 - The script in examples/training/ will fail because the training data is not included in this Gitlab.
 
 - The evaluation script (examples/analyze/step3_launch_evaluation.py) is the one used in SHREC'19, which needs additional packages (pathlib and pycm, can be installed with pip). The performance of Deep Finder has been evaluated by an independent group, and the result of this evaluation has been published in Gubins & al., "SHREC'19 track: Classification in cryo-electron tomograms".
+
+__Challange_Facing:__
+-Fixing imports :	
+  --(Done) Make it run 
+  --Imports does not support option to carry on thus cannot work on CLI 
+-How to annotate data SHREC 2019 data :
+  --As the data is quite large manually annotation not possible and gui only supports manual annotation 
