@@ -25,11 +25,11 @@ __News__: (01/06/22) A first version of the [Napari](https://napari.org) GUI (Na
 
 ## Contents
 
-- [System_Requirements](##System_Requirements)
+- [System_Requirements](#system_requirements)
 
-- [Installation_Guide](##Installation_Guide)
+- [Installation_Guide](#installation_guide)
 
-- [Instructions_for_use](##Instructions_for_use)
+- [Instructions_for_use](#instructions_for_use)
 
 - [Documentation](https://deepfinder.readthedocs.io/en/latest/)
 
