@@ -37,7 +37,7 @@ __News__: (01/06/22) A first version of the [Napari](https://napari.org) GUI (Na
 
   
 
-## System_Requirements
+## System_requirements
 
 __PythonVersion__:__Deep Finder__ has been implemented using __Python 3__ (_Python >= 3.8 is required_) and is based on the __Keras__ package. It has been tested on Linux and should also work on Mac OSX as well as Windows.
 
