@@ -11,7 +11,7 @@ import os
 import deepfinder.utils.objl as ol
 
 # First, we load the object list produced by DeepFinder:
-objl = ol.read_xml('deepfinder/examples/analyze/result/tomo9_objlist_thr.xml')
+objl = ol.read_xml('deepfinder/examples/analyze/result/tomo9_objlist_raw.xml')
 
 # Then, we convert the predicted object list into a text file, as needed by the SHREC'19 evaluation script:
 class_name = {0: "0", 1: "1bxn", 2: "1qvr", 3: "1s3x", 4: "1u6g", 5: "2cg9", 6: "3cf3",

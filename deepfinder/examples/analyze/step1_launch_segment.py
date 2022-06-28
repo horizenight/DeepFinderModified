@@ -14,7 +14,7 @@ patch_size   = 160 # must be multiple of 4
 
 print(path_tomo)
 # Output parameter:
-path_output = 'deepfinder/examples/analyze/out/labelmap.mrc'
+path_output = 'deepfinder/examples/analyze/out/'
 
 
 # Load data:
