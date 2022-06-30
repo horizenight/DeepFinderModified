@@ -2,6 +2,8 @@
 # Deep Finder
 This is purely implementation for analysis ! Credit for the code to the respective owners!
 
+_To codeReproducers:_ you can view this [document](https://docs.google.com/document/d/1Dmtz_9TyHHA_OCtQ_FPOIhd6nT_JR4buSskeKHwKkSc/edit?usp=sharing) as to get the idea/relation between the paper and how to run the script.
+
 The code in this repository is described in [this pre-print](https://www.biorxiv.org/content/10.1101/2020.04.15.042747v1). This paper has been submitted to Nature Methods and has now been [published](https://doi.org/10.1038/s41592-021-01275-4).
 
  
